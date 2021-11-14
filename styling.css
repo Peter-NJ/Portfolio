@@ -5,9 +5,11 @@ body {
 
 h1 {
     color: hotpink;
-    font-size: large;
+    font-size: 300%;
+    text-align: center;
 }
 
 p {
     color: white;
+    margin: 50px;
 }
