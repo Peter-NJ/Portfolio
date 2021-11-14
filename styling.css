@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    margin: 50px;
 }
 
 h1 {
@@ -11,5 +12,4 @@ h1 {
 
 p {
     color: white;
-    margin: 50px;
 }
