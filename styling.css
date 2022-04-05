@@ -1,10 +1,15 @@
+
+html {
+    font-size: 100%;
+    font-family: 'Manrope', Tahoma, Verdana, sans-serif;
+}
+
+
 body {
     margin: 0px;
     padding: 0px;
     box-shadow: inset 0px 0px 100px black;
     background-color:#111111;
-    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
-    
 }
 
 h1 {
