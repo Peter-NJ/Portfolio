@@ -26,19 +26,11 @@ p {
     margin-right: 50px;
 }
 
-.standard-box {
-    color: white;
-    background-color: black;
-    font-size: 130%;
-    margin: 20px;
-    padding: 20px;
-}
-
 .border-box {
     color: white;
     background-color: black;
     font-size: 130%;
-    margin: 20px;
+    margin: 100px;
     padding: 20px;
     border: 3px solid white;
 }
