@@ -11,12 +11,12 @@ h1 {
     margin: 50px;
     color: #c82f43;
     font-size: 220%;
-    text-align: center;
+    text-align: left;
 }
 
 p {
     color: white;
     font-size: 130%;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
