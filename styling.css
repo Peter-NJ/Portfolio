@@ -31,10 +31,9 @@ p {
 
 
 .module-border-wrap {
-    max-width: 250px;
-    padding: 1rem;
+    max-width: 700px;
     position: relative;
-    background: linear-gradient(to right, #c82f43, #811b39);
+    background: linear-gradient(to right, #f04742, #c82e42, #811b39);
     padding: 3px;
 }
 
