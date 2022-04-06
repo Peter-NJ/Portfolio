@@ -14,7 +14,12 @@ img {
     width: 100%;
     height: auto;
     display: block;
+    transition: width 500ms ease-out 100ms;
 }
+
+img:hover {
+    width: 150%;
+  }
 
 h1 {
     color: #c82f43;
