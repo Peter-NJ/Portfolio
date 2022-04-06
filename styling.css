@@ -36,16 +36,15 @@ p {
     background: linear-gradient(to right, #f04742, #c82e42, #811b39); 
 }
 
-#second-box-border {
-    padding-bottom: 3px;
-    margin-bottom: 50px;
-   
-}
-
 .box {
     color: white;
     background-color: black;
     padding: 3px;
+}
+
+#second-box-border {
+    padding-bottom: 3px;
+    margin-bottom: 50px;   
 }
 
 a {
