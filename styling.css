@@ -32,7 +32,7 @@ p {
 
 .module-border-wrap {
     max-width: 700px;
-    padding: 10px;
+    padding: 3px;
     position: relative;
     background: linear-gradient(to right, #f04742, #c82e42, #811b39);
     padding: 3px;
@@ -43,6 +43,6 @@ p {
     background-color: black;
     font-size: 100%;
     max-width: 700px;
-    margin: 50px;
+    margin: 200px;
     padding: 10px;
 }
