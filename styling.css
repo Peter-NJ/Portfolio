@@ -14,14 +14,9 @@ img {
     width: 100%;
     height: auto;
     display: block;
-    transition: width 500ms ease-in-out 0ms;
     margin-left: auto;
     margin-right: auto;
 }
-
-img:hover {
-    width: 150%;
-  }
 
 h1 {
     color: #c82f43;
